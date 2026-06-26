@@ -1,0 +1,13 @@
+PROBLEM STATEMENT
+
+Supply chains face frequent disruptions due to weather events, geopolitical risks, and logistics delays. Early detection and mitigation are critical but often hampered by fragmented data sources and manual monitoring. Current alert systems generate noise without actionable recommendations. There is a need for an Al assistant that ingests diverse data streams, identifies potential disruptions, and generates mitigation strategies, enabling proactive supply chain management.
+
+Data Considerations:
+
+Weather APIs, news feeds, logistics tracking data; enterprise supply chain data; preprocessing for multi-source data fusion; compliance with data privacy; synthetic disruption scenarios for testing. Consider using synthetic or anonymized data where appropriate. Ensure data quality and relevance to the problem context.
+
+e
+
+SOLUTION EXPECTATIONS
+
+A web dashboard displaying detected risks with Al-generated mitigation plans; alert subscription and notification features; integration with external data APIs; performance metrics on detection accuracy and response time; demo includes scenario simulation and mitigation generation. Feel free to explore creative solutions that align with the problem context and objectives.
